@@ -323,4 +323,3 @@ A Javascript rock paper scissors game that let's you type a username and select 
 <img width="642" alt="Screen Shot 2023-01-02 at 4 17 16 PM" src="https://user-images.githubusercontent.com/53412192/210281457-5bbb6555-aa63-45ee-9a37-23c711f6f989.png">
 
 The result will appear and you keep playing until the game ends. 
-
