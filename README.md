@@ -1,44 +1,5 @@
 # My Portfolio
 
-## Stupid Superpowers
-
-[Repository Link](https://github.com/joshualiu555/Stupid-Superpowers "Repository")
-
-[Website Link](https://stupid-superpowers.herokuapp.com "Stupid Superpowers Web Version")
-
-This is the web version of a card game I made with two friends called "Stupid Superpowers." It is an "Apples to Apples" or "Cards Against Humanity" remake with only stupid superpowers.
-My web stack consisted of HTML, CSS, React, Node.js, Express.js, and Socket.io, multiple npm packages (profanity checker, random name generator, countdown). The website was deployed on Heroku. 
-
-There is no account creation, as the game is meant to be played casually without any need for progress. 
-
-<img width="826" alt="Screen Shot 2023-01-02 at 7 56 30 PM" src="https://user-images.githubusercontent.com/53412192/210291081-1c95b494-d7e0-493e-bafb-f499ae43dc2d.png">
-
-### How The Code Works
-
-##### Layout
-I used flexbox to format the homescreen, lobby, and result screen in columns and rows. 
-I used grid to format the game screen. This made separating the prompt, cards, scoreboard, and chat very simple.
-
-##### Frontend and Backend
-Whenever a user clicks something on the frontend, socket.io emits certain parameters such as player id to the backend "database." The backend then works through the array and does its magic, as I will describe below. 
-
-##### Joining a Game
-Here's how the temporary "database" is formatted.
-
-- Array of Games
-  - Game Attributes: Color, Code, Prompts, etc.
-  - Chat
-  - Array of Players
-    - Player Attributes: Score, Powers, etc.
-    
-When a player joins a game, whether randomly or by code, the program searches for a valid room and allows them to join the lobby. Otherwise, an error message shows up. 
-
-##### Playing the Game
-There is a countdown that works by resetting the React state every second. When a player chooses a card, they can submit and that changes their player attribute. When every player has selectd, the game attribute changes to "voting." The voting system works similar to the selecting system. When everyone votes, the highest scoring players get an extra point to their score. If someone has reached 7, the winning screen occurs. Otherwise, the game chooses the next prompt card in the deck. Each player then discards a power from their array and randomly picks a new one.
-
-##### Chat
-Each game has an array of chats. When a player enters a chat, the program finds the game code, and registers it into its chat array. Socket.io then sends the text back to the frontend.
-
 ## Stress Tester
 
 This Java application is designed to facilitate stress testing for coding solutions by comparing the output of a user-written solution against a brute-force solution using generated test cases. The application leverages JavaFX for a graphical user interface, allowing users to input their code directly into text areas.
@@ -129,44 +90,6 @@ Feel free to submit issues or pull requests to contribute to this project.
 This project is licensed under the MIT License.
 
 <img width="757" alt="Screenshot 2024-08-11 at 11 55 29 AM" src="https://github.com/user-attachments/assets/c6551fa4-771e-4551-aafc-fb42d67403f5">
-
-## Find-A-Swim
-Allows users to search public workouts based on stroke and distance. Also allows them to register / login and create their own workouts.
-
-[Website Link](https://find-a-swim-1b209de32774.herokuapp.com)
-
-#### Public Workouts
-Has two dropdowns that allows users to search workouts based on stroke and distance.
-
-<img width="324" alt="Screen Shot 2023-12-03 at 7 00 02 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/63c10f4e-9e3a-4ae5-933a-534ea4bba7c1">
-
-#### Create Workout
-If logged in, a user can create a workout. This is prevented if you are just a guest user. 
-
-<img width="407" alt="Screen Shot 2023-12-03 at 7 01 03 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/8792305a-1fc8-40a1-9d5f-382d1a917e86">
-
-#### My Workouts
-If logged in, a user can view their own workouts. They can also edit or delete each workout. 
-
-<img width="325" alt="Screen Shot 2023-12-03 at 7 01 40 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/715c2df5-1dbd-40a4-ba31-a8620401fcd1">
-
-#### Login / Register
-Allows user to register or login to their account. 
-
-<img width="307" alt="Screen Shot 2023-12-03 at 7 02 05 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/1986ef85-e179-466c-86f3-5831feab1879">
-
-#### See For Yourself
-1) Download this repo as a zip and uncompress
-2) Run npm install on both the client and server directories
-3) Run `npm run dev` in the server directory
-4) Run `npm start` in the client directory
-
-#### Deploy to Heroku
-1) Add Procfile and write `web src/index.js`
-2) Run `npm build` in the client directory
-3) Copy that content and put it in a folder called "public" in the server directory
-4) Deploy with Heroku CLI instructions
-
 
 ## Pixel Art Maker
 
@@ -267,6 +190,83 @@ Open up a terminal / command line inside the directory
 pyinstaller --add-data "board.txt:." --add-data "reset.txt:." --add-data "selections.txt:." --add-data "icons:icons" --add-data "screenshots:screenshots" main.py
 
 Go to dist and select main.exe
+
+## Stupid Superpowers
+
+[Repository Link](https://github.com/joshualiu555/Stupid-Superpowers "Repository")
+
+[Website Link](https://stupid-superpowers.herokuapp.com "Stupid Superpowers Web Version")
+
+This is the web version of a card game I made with two friends called "Stupid Superpowers." It is an "Apples to Apples" or "Cards Against Humanity" remake with only stupid superpowers.
+My web stack consisted of HTML, CSS, React, Node.js, Express.js, and Socket.io, multiple npm packages (profanity checker, random name generator, countdown). The website was deployed on Heroku. 
+
+There is no account creation, as the game is meant to be played casually without any need for progress. 
+
+<img width="826" alt="Screen Shot 2023-01-02 at 7 56 30 PM" src="https://user-images.githubusercontent.com/53412192/210291081-1c95b494-d7e0-493e-bafb-f499ae43dc2d.png">
+
+### How The Code Works
+
+##### Layout
+I used flexbox to format the homescreen, lobby, and result screen in columns and rows. 
+I used grid to format the game screen. This made separating the prompt, cards, scoreboard, and chat very simple.
+
+##### Frontend and Backend
+Whenever a user clicks something on the frontend, socket.io emits certain parameters such as player id to the backend "database." The backend then works through the array and does its magic, as I will describe below. 
+
+##### Joining a Game
+Here's how the temporary "database" is formatted.
+
+- Array of Games
+  - Game Attributes: Color, Code, Prompts, etc.
+  - Chat
+  - Array of Players
+    - Player Attributes: Score, Powers, etc.
+    
+When a player joins a game, whether randomly or by code, the program searches for a valid room and allows them to join the lobby. Otherwise, an error message shows up. 
+
+##### Playing the Game
+There is a countdown that works by resetting the React state every second. When a player chooses a card, they can submit and that changes their player attribute. When every player has selectd, the game attribute changes to "voting." The voting system works similar to the selecting system. When everyone votes, the highest scoring players get an extra point to their score. If someone has reached 7, the winning screen occurs. Otherwise, the game chooses the next prompt card in the deck. Each player then discards a power from their array and randomly picks a new one.
+
+##### Chat
+Each game has an array of chats. When a player enters a chat, the program finds the game code, and registers it into its chat array. Socket.io then sends the text back to the frontend.
+
+## Find-A-Swim
+Allows users to search public workouts based on stroke and distance. Also allows them to register / login and create their own workouts.
+
+[Website Link](https://find-a-swim-1b209de32774.herokuapp.com)
+
+#### Public Workouts
+Has two dropdowns that allows users to search workouts based on stroke and distance.
+
+<img width="324" alt="Screen Shot 2023-12-03 at 7 00 02 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/63c10f4e-9e3a-4ae5-933a-534ea4bba7c1">
+
+#### Create Workout
+If logged in, a user can create a workout. This is prevented if you are just a guest user. 
+
+<img width="407" alt="Screen Shot 2023-12-03 at 7 01 03 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/8792305a-1fc8-40a1-9d5f-382d1a917e86">
+
+#### My Workouts
+If logged in, a user can view their own workouts. They can also edit or delete each workout. 
+
+<img width="325" alt="Screen Shot 2023-12-03 at 7 01 40 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/715c2df5-1dbd-40a4-ba31-a8620401fcd1">
+
+#### Login / Register
+Allows user to register or login to their account. 
+
+<img width="307" alt="Screen Shot 2023-12-03 at 7 02 05 PM" src="https://github.com/joshualiu555/Find-A-Swim/assets/53412192/1986ef85-e179-466c-86f3-5831feab1879">
+
+#### See For Yourself
+1) Download this repo as a zip and uncompress
+2) Run npm install on both the client and server directories
+3) Run `npm run dev` in the server directory
+4) Run `npm start` in the client directory
+
+#### Deploy to Heroku
+1) Add Procfile and write `web src/index.js`
+2) Run `npm build` in the client directory
+3) Copy that content and put it in a folder called "public" in the server directory
+4) Deploy with Heroku CLI instructions
+5) 
 
 ## Maze Generator And Solver
 Program Purpose: Generates a maze that then solves itself
