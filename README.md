@@ -41,15 +41,37 @@ Clubs:
 ### MyGymBuddy
 [MyGymBuddy](https://www.mygymbuddy.io) is an app that allows gym goers to find gym buddies to exercise with. We are a small, remote team of 6 based in Indiana, Colorado, and Tennessee. The public beta is launching in Indiana on June 21st, with New York City following soon. 
 
-During my time here, I've participated in weekly SCRUM meetings to discuss progress and plans with the team. I've learned a lot about how a startup functions, how to work with a small team, and most importantly, how tech affects the business side of things. The CEO and CTO are my mentors, but I've also been able to interview others and help get them onboarded. 
-
+What I've Done:
+- Participated in weekly SCRUM meetings to discuss progress and plans with the team
+- Learned how tech affects the business side of things
+- Interviewed prospective candidates and helped onboard them
+  
 ### Trio Labs
 [Trio Labs](https://triolabs.com) is a company that 3D prints micro parts for multiple different industries. Although the company consists of roughly 50 employees, the software engineering team consists of 6 people as well. 
 
-Since I've worked here, I've progressed from small tickets for the company ERP all the way to writing my own project in Rust. I've listened in on weekly SWE review meetings and receive weekly lectures about a multitude of computer science topics. I've grown very close with the other interns and believe that we'll stay in touch down the line.
+What I've Done:
+- Participated in weekly SWE review meetings
+- Receive weekly lectures about a multitude of computer science topics
+- Monthly one-on-one check-ins with the lead senior developer
 
 ### Duke Applied Machine Learning Club
+[DAML](https://duke.campusgroups.com/damlg/home/) is a club at Duke University that works on hardware, data science, AI / ML, and software projects. I was a team member on an event planning project that was meant to replace Duke Groups. 
+
+What I did:
+- Integrated PayPal API to allow users to pay for tickets
+- Implemented a login / logout system using JWT
 
 ### Helping Hands Corporation
+[Helping Hands Corporation](https://helpingh.org/helping-hands-team) is a nonprofit that focuses on education and elder care. I was a team member working on a website for Arizona State University that allows students and professors to coordinate on research.
+
+What I did:
+- Deployed the backend of the website to AWS EC2
+- Created a file uploading system
+
+### Tennessee State Government
+
+What I did:
+- Wrote a script that parsed through thousands of lines, reducing the need for manual data entry
 
 ## Projects
+
