@@ -75,7 +75,7 @@ What I did:
 
 ## Projects
 
-### Real Life Among Us
+### [Real Life Among Us](https://github.com/joshualiu555/biosci-assassins/tree/main)
 As mentioned above, I'm part of the Duke Roundtable SLG, which is a social club. We play a popular game called "BioSci Assassins," which is where turn off all the lights in the biological sciences buiding and play a real life version of Among Us. However, the game is played manually, with cards, GroupMe, and a whole lot of shouting. I made this to automate the game and introduce the concept of tasks, similar to the real game. 
 
 ### Competitive Programming Stress Tester
