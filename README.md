@@ -76,12 +76,20 @@ What I did:
 ## Projects
 
 ### [Real Life Among Us](https://github.com/joshualiu555/biosci-assassins/tree/main)
+
+<img width="450" alt="Screenshot 2025-06-03 at 11 25 04 PM" src="https://github.com/user-attachments/assets/2b624520-e347-4a61-8907-232150643d06" />
+
 As mentioned above, I'm part of the Duke Roundtable SLG, which is a social club. We play a popular game called "BioSci Assassins," which is where turn off all the lights in the biological sciences buiding and play a real life version of Among Us. However, the game is played manually, with cards, GroupMe, and a whole lot of shouting. I made this to automate the game and introduce the concept of tasks, similar to the real game. 
 
 ### [Competitive Programming Stress Tester](https://github.com/joshualiu555/Stress-Tester/tree/main)
 I used to be a competitive programmer, and I often spent ages banging my head against the wall trying to see why my solution was failing on some random, hidden test case. 
 I wanted to create a tool that allowed Java users (although I used C++) to stress test their solutions against randomly generated test cases. 
 
+<img width="1272" alt="Screenshot 2025-06-05 at 9 08 47 PM" src="https://github.com/user-attachments/assets/0645ec40-9bf1-4713-a7df-dc14c3e1ee26" />
+
 ### [Pixel Art Maker](https://github.com/joshualiu555/Pixel-Art-Maker)
+
+![14:31:58](https://user-images.githubusercontent.com/53412192/120903395-8435f280-c60b-11eb-951d-b96d30303164.png)
+
 This was my first project that took around two weeks of constant coding. The purpose was to work on my OOP fundamentals. The inspiration came from a Tech With Tim video where he made a Microsoft Paint clone. 
 
