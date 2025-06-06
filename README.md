@@ -78,4 +78,10 @@ What I did:
 ### [Real Life Among Us](https://github.com/joshualiu555/biosci-assassins/tree/main)
 As mentioned above, I'm part of the Duke Roundtable SLG, which is a social club. We play a popular game called "BioSci Assassins," which is where turn off all the lights in the biological sciences buiding and play a real life version of Among Us. However, the game is played manually, with cards, GroupMe, and a whole lot of shouting. I made this to automate the game and introduce the concept of tasks, similar to the real game. 
 
-### Competitive Programming Stress Tester
+### [Competitive Programming Stress Tester](https://github.com/joshualiu555/Stress-Tester/tree/main)
+I used to be a competitive programmer, and I often spent ages banging my head against the wall trying to see why my solution was failing on some random, hidden test case. 
+I wanted to create a tool that allowed Java users (although I used C++) to stress test their solutions against randomly generated test cases. 
+
+### [Pixel Art Maker](https://github.com/joshualiu555/Pixel-Art-Maker)
+This was my first project that took around two weeks of constant coding. The purpose was to work on my OOP fundamentals. The inspiration came from a Tech With Tim video where he made a Microsoft Paint clone. 
+
