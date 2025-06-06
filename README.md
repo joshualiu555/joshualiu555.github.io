@@ -3,7 +3,7 @@
 **Rather than repeating my resume, this page offers additional information and insights for you to get to know more about me.**
 
 ## About Me
-Hi! I'm Josh, a rising sophomore studying computer science at Duke University. After looking into many different fields, I've discovered that software engineering is the route I want to go down. I'm interested in everything from the bits and bytes of low level systems to the polish of frontend design. No matter what, my goal is the same: to help the world one line of code at a time. 
+Hi! I'm Josh, a sophomore studying computer science at Duke University. After looking into many different fields, I've discovered that software engineering is the route I want to go down. I'm interested in everything from the bits and bytes of low level systems to the polish of frontend design. No matter what, my goal is the same: to help the world one line of code at a time. 
 
 ### Fun Facts
 - I enjoy competitive swimming and training mixed martial arts. 
