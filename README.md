@@ -77,7 +77,7 @@ What I did:
 
 ### [Real Life Among Us](https://github.com/joshualiu555/biosci-assassins/tree/main)
 
-<img width="450" alt="Screenshot 2025-06-03 at 11 25 04 PM" src="https://github.com/user-attachments/assets/2b624520-e347-4a61-8907-232150643d06" />
+<img width="396" height="843" alt="Screenshot 2025-07-30 at 3 38 03 PM" src="https://github.com/user-attachments/assets/0e560538-a1d4-4379-bb86-231593c03c6a" />
 
 As mentioned above, I'm part of the Duke Roundtable SLG, which is a social club. We play a popular game called "BioSci Assassins," which is where turn off all the lights in the biological sciences buiding and play a real life version of Among Us. However, the game is played manually, with cards, GroupMe, and a whole lot of shouting. I made this to automate the game and introduce the concept of tasks, similar to the real game. 
 
