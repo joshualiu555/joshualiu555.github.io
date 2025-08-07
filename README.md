@@ -26,7 +26,6 @@ Email: liu.joshua555@gmail.com
 
 ### Duke University
 Clubs:
-- Software Head of Duke Applied Machine Learning Club
 - Social Media Chair for the Roundtable SLG
 - Club Swimming
 
