@@ -20,7 +20,7 @@ Email: liu.joshua555@gmail.com
 
 [GitHub](https://github.com/joshualiu555)
 
-[Resume](https://github.com/user-attachments/files/21665646/resume.pdf)
+[Resume](https://joshualiu555.github.io/resume.pdf)
 
 ## Education
 
