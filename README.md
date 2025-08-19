@@ -3,7 +3,7 @@
 **Rather than repeating my resume, this page offers additional information and insights for you to get to know more about me.**
 
 ## About Me
-Hi! I'm Josh, a sophomore studying computer science at Duke University. After looking into many different fields, I've discovered that software engineering is the route I want to go down. I'm interested in everything from the bits and bytes of low level systems to the polish of frontend design. No matter what, my goal is the same: to help the world one line of code at a time. 
+Hi! I'm Josh, a sophomore studying computer science and electrical and computer engineering at Duke University. After looking into many different fields, I've discovered that embeeded software / firmware engineering is the route I want to go down. No matter what I do, my goal is the same: to help the world one line of code at a time. 
 
 ### Fun Facts
 - I enjoy competitive swimming and training mixed martial arts. 
@@ -37,6 +37,14 @@ Clubs:
 
 ## Experience
 
+### Trio Labs
+[Trio Labs](https://triolabs.com) is a company that 3D prints micro parts for multiple different industries. Although the company consists of roughly 50 employees, the software engineering team consists of 6 people as well. 
+
+What I've Done:
+- Participated in weekly SWE review meetings
+- Receive weekly lectures about a multitude of computer science and electrical and computer engineering topics
+- Monthly one-on-one check-ins with the lead senior developer
+
 ### MyGymBuddy
 [MyGymBuddy](https://www.mygymbuddy.io) is an app that allows gym goers to find gym buddies to exercise with. We are a small, remote team of 6 based in Indiana, Colorado, and Tennessee. The public beta is launching in Indiana on June 21st, with New York City following soon. 
 
@@ -44,14 +52,6 @@ What I've Done:
 - Participated in weekly SCRUM meetings to discuss progress and plans with the team
 - Learned how tech affects the business side of things
 - Interviewed prospective candidates and helped onboard them
-  
-### Trio Labs
-[Trio Labs](https://triolabs.com) is a company that 3D prints micro parts for multiple different industries. Although the company consists of roughly 50 employees, the software engineering team consists of 6 people as well. 
-
-What I've Done:
-- Participated in weekly SWE review meetings
-- Receive weekly lectures about a multitude of computer science topics
-- Monthly one-on-one check-ins with the lead senior developer
 
 ### Duke Applied Machine Learning Club
 [DAML](https://duke.campusgroups.com/damlg/home/) is a club at Duke University that works on hardware, data science, AI / ML, and software projects. I was a team member on an event planning project that was meant to replace Duke Groups. 
