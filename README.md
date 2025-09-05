@@ -20,14 +20,13 @@ Email: liu.joshua555@gmail.com
 
 [GitHub](https://github.com/joshualiu555)
 
-[Resume](https://joshualiu555.github.io/resume.pdf)
-
 ## Education
 
 ### Duke University
 Clubs:
 - Social Media Chair for the Roundtable SLG
 - Club Swimming
+- Club Pickleball
 
 ### Ravenwood High School
 Clubs:
