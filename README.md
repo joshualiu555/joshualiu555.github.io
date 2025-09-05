@@ -3,7 +3,7 @@
 **Rather than repeating my resume, this page offers additional information and insights for you to get to know more about me.**
 
 ## About Me
-Hi! I'm Josh, a sophomore studying computer science and electrical and computer engineering at Duke University. After looking into many different fields, I've discovered that embeeded software / firmware engineering is the route I want to go down. No matter what I do, my goal is the same: to help the world one line of code at a time. 
+Hi! I'm Josh, a sophomore studying computer science at Duke University. After looking into many different fields, I've discovered that software engineering is the field I want to pursue. No matter what I do, my goal is the same: to help the world one line of code at a time. 
 
 ### Fun Facts
 - I enjoy competitive swimming and training mixed martial arts. 
