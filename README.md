@@ -13,7 +13,8 @@ Hi! I'm Josh, a sophomore studying computer science at Duke University. After lo
 ## Contacts
 Phone Number: 484-758-7935
 
-Email: liu.joshua555@gmail.com
+Personal Email: liu.joshua555@gmail.com
+School Email: joshua.liu@duke.edu
 
 ## Links
 [LinkedIn](www.linkedin.com/in/joshualiu555)
