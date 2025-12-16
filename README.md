@@ -26,6 +26,7 @@ School Email: joshua.liu@duke.edu
 
 ### Duke University
 Clubs:
+- Duke Applied Machine Learning
 - Social Media Chair for the Roundtable SLG
 - Club Swimming
 - Club Pickleball
