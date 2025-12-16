@@ -14,6 +14,7 @@ Hi! I'm Josh, a student studying computer science at Duke University. After look
 Phone Number: 484-758-7935
 
 Personal Email: liu.joshua555@gmail.com
+
 School Email: joshua.liu@duke.edu
 
 ## Links
