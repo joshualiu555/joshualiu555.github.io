@@ -18,7 +18,7 @@ Personal Email: liu.joshua555@gmail.com
 School Email: joshua.liu@duke.edu
 
 ## Links
-[LinkedIn](www.linkedin.com/in/joshualiu555)
+[LinkedIn](https://www.linkedin.com/in/joshualiu555)
 
 [GitHub](https://github.com/joshualiu555)
 
